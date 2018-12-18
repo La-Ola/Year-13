@@ -1,0 +1,12 @@
+#----How to do superscript.
+
+zero = "\u2070"
+one = "\u00b3"
+two = "\u00b2"
+three = "\u00b3"
+four = "\u2074"
+five = "\u2075"
+six = "\u2076"
+seven = "\u2077"
+eight = "\u2078"
+nine = "\u2079"
